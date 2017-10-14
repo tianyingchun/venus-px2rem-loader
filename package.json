@@ -1,6 +1,6 @@
 {
   "name": "venus-px2rem-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "venus px2rem webpack",
   "main": "index.js",
   "scripts": {
@@ -19,6 +19,6 @@
   "dependencies": {
     "js-data-type": "^1.0.6",
     "loader-utils": "^1.1.0",
-    "px2rem": "^0.5.0"
+    "venus-px2rem": "^1.0.0"
   }
 }
